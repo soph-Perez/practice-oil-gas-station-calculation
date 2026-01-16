@@ -17,8 +17,7 @@ Display the following menu:
   -	Oil costs the station $1.27/ litre before discounts.
   -	If the station purchases more than 8 cases, they receive a 10% discount off the per litre price of the purchase. 
   -	Gasoline is purchased by the litre at a cost of $1.07 per litre. 
-  -	If the station purchases more than 4000 litres, they receive a 10% discount off the per litre price.
-<br>
+  -	If the station purchases more than 4000 litres, they receive a 10% discount off the per litre price.<br>
 Calculate GST according to the following:
 <br>
   Province	GST %
