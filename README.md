@@ -18,14 +18,10 @@ Display the following menu:
   -	If the station purchases more than 8 cases, they receive a 10% discount off the per litre price of the purchase. 
   -	Gasoline is purchased by the litre at a cost of $1.07 per litre. 
   -	If the station purchases more than 4000 litres, they receive a 10% discount off the per litre price.<br>
-Calculate GST according to the following:
-<br>
-  Province	GST %
-<br>
-  AB, BC, MB, NT, NU, QC, SK, or YT	= 5
-<br>
-  ON = 13
-<br>
+Calculate GST according to the following:<br>
+  Province	GST %<br>
+  AB, BC, MB, NT, NU, QC, SK, or YT	= 5<br>
+  ON = 13<br>
   Others	= 15
   - The user can type the province in lower or upper-case letters.
 
